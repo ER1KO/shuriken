@@ -32,7 +32,7 @@ export default function Home() {
         <title>Shuriken - NTS Audio</title>
         <meta name="description" content="Le Shuriken in ear sono auricolari custom interamente ideati, disegnati e prodotti a Milano. Il team di NTS Audio, da grande appassionato di gaming, ha pensato di portare l'esperienza sonora unica dell'audio custom nel mondo dei videogames. Le in-ear sono completamente lavorate a mano nel nostro laboratorio." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />       
+        <link rel="icon" href="/favicon.png" />       
       </Head>
       <main id="MainPage">
         <Modal
