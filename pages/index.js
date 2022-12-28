@@ -109,7 +109,7 @@ export default function Home() {
                 <span className='industry-bold'>ENEMY</span>
               </div> 
               <div className='inline-block leading-[1]'>
-                <a href='/' title='Prenota ora' target='_blank' rel='noopener nofollow noreferrer' className='cursor-pointer'>
+                <a href='https://www.ntsaudio.it/negozio/shuriken/' title='Prenota ora' target='_blank' rel='noopener nofollow noreferrer' className='cursor-pointer'>
                   <Image
                     src="/prenota-ora-button.png"
                     alt="Prenota ora"
