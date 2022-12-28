@@ -146,8 +146,8 @@ export default function Home() {
               </div>
               <div className='content-section text-[22px] leading-[28px]'>
                 <p>
-                Le Shuriken sono il risultato degli sforzi congiunti tra i migliori gamers e fonici italiani, un prodotto d'eccellenza pensato per 
-                i giocatori competitivi ma adatto a chiunque voglia godersi un'esperienza audio ai massimi livelli.</p><br />
+                Le Shuriken sono il risultato degli sforzi congiunti tra i migliori gamers e fonici italiani, un prodotto d&apos;eccellenza pensato per 
+                i giocatori competitivi ma adatto a chiunque voglia godersi un&apos;esperienza audio ai massimi livelli.</p><br />
                 <p>Goditi il suono nitido e potente grazie alla tecnologia innovativa abbinata ad una lavorazione fatta a mano su misura per ogni singolo cliente.</p>
                 <Image
                   src="/made-in-italy.png"
@@ -207,8 +207,8 @@ export default function Home() {
             </div>
             <div className='content-section text-[22px] leading-[28px] xl:text-right'>
               <p>
-              I nostri auricolari custom sono interamente ideati, disegnati e prodotti a Milano. Il team di NTS Audio, da grande appassionato di gaming, ha pensato di portare l'esperienza sonora unica dell'audio custom nel mondo dei videogames. Le in-ear sono completamente lavorate a mano nel nostro laboratorio.</p>
-              <br /><p>La perfetta aderenza delle cuffie nella parte interna dell'orecchio le rendono comodissime ed offrono un ottimo isolamento acustico.</p>
+              I nostri auricolari custom sono interamente ideati, disegnati e prodotti a Milano. Il team di NTS Audio, da grande appassionato di gaming, ha pensato di portare l&apos;esperienza sonora unica dell&apos;audio custom nel mondo dei videogames. Le in-ear sono completamente lavorate a mano nel nostro laboratorio.</p>
+              <br /><p>La perfetta aderenza delle cuffie nella parte interna dell&apos;orecchio le rendono comodissime ed offrono un ottimo isolamento acustico.</p>
               <p>Il tutto per un esperienza audio senza precedenti!</p>
             </div>
           </div>
