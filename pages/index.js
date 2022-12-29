@@ -160,10 +160,16 @@ export default function Home() {
             </div>
           </section>
           <section className='xl:grid xl:grid-cols-2 xl:gap-4 xl:px-44 xl:py-20 p-5'>
-            <div>
-              <model-viewer src="/in_ear.glb" disable-zoom disable-pan camera-orbit="0 100deg" alt="Shuriken headset" ios-src="/in_ear.glb" auto-rotate camera-controls></model-viewer>
+            <div className='text-center'>
+                <Image
+                  src="/shuriken.gif"
+                  alt="Custom Shuriken in ear made in italy"
+                  width={700}
+                  height={700}
+                  className='inline-block'                
+                />
             </div>
-            <div>
+            <div className='mt-20'>
               <div className='section-title uppercase text-[35px] mb-10 indusrty-light'>
                 <span className='industry-bold'>Specifiche</span> Tecniche
               </div>
